@@ -3,8 +3,6 @@ title: 'Hylo Equations'
 description: 'Technical breakdown of the key equations powering Hylo&apos;s protocol'
 ---
 
-# Hylo Equations
-
 ## True LST value
 
 For calculation purposes, both xSOL and hyUSD are priced using the pure SOL price. However, since they are backed by Liquid Staking Tokens (LSTs), we need to accurately capture the price of these LSTs at any time. Using the market price of LSTs could pose significant problems, especially during severe market volatility, when the peg of these LSTs can be lost due to lack of liquidity and also they have a greater susceptibility to manipulation compared to SOL prices. Therefore, we use the **Sanctum SOL value calculator program** to determine the true LST price based on the amount of SOL held in each LST stake pool.
