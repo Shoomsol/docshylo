@@ -1,8 +1,8 @@
 <svg width="1320" height="603" viewBox="0 0 1320 603" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_3299_3160)">
-<rect width="1320" height="603" rx="40" fill="white" fill-opacity="0.9"/>
-<rect width="1320" height="603" rx="40" fill="url(#paint0_linear_3299_3160)" fill-opacity="0.9"/>
-<rect width="1320" height="603" rx="40" fill="url(#paint1_linear_3299_3160)" fill-opacity="0.9"/>
+<rect width="1320" height="603" rx="40" fill="white"/>
+<rect width="1320" height="603" rx="40" fill="url(#paint0_linear_3299_3160)"/>
+<rect width="1320" height="603" rx="40" fill="url(#paint1_linear_3299_3160)"/>
 <line x1="30.5" y1="2.18557e-08" x2="30.5" y2="1080" stroke="white" stroke-opacity="0.08"/>
 <line x1="60.5" y1="2.18557e-08" x2="60.5" y2="1080" stroke="white" stroke-opacity="0.08"/>
 <line x1="90.5" y1="2.18557e-08" x2="90.5" y2="1080" stroke="white" stroke-opacity="0.08"/>
