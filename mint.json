@@ -15,7 +15,7 @@
       "to": "#5C48D5"
     }
   },
-  "backgroundImage": "/images/background.png",
+  "backgroundImage": "/images/background.svg",
   
   "topbarCtaButton": {
     "name": "Join us on Telegram",
