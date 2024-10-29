@@ -16,6 +16,11 @@
     }
   },
   "backgroundImage": "/images/background.svg",
+
+  "modeToggle": {
+  "default": "dark",
+    "isHidden": true
+  },
   
   "topbarCtaButton": {
     "name": "Join us on Telegram",
