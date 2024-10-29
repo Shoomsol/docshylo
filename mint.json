@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Hylo Documentation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -8,22 +8,17 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#B49AFB",
+    "dark": "#5C48D5",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#B49AFB",
+      "to": "#5C48D5"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
-    }
-  ],
+  "backgroundImage": "/images/background.png",
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Join us on Telegram",
+    "url": "https://t.me/hylo_so"
   },
   "tabs": [
     {
@@ -33,28 +28,34 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "x-twitter",
+      "url": "https://x.com/hylo_so"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Telegram",
+      "icon": "telegram",
+      "url": "https://t.me/hylo_so"
+    },
+    {
+      "name": "Website",
+      "icon": "globe",
+      "url": "https://hylo.so"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Hylo",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
+      ]
+    },
+    {
+      "group": "Background",
+      "pages": [
+        "background/centralized-stablecoins",
+        "background/decentralized-stablecoins",
+        "background/long-term-leverage"
       ]
     },
     {
