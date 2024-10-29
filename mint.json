@@ -58,6 +58,25 @@
         "background/decentralized-stablecoins",
         "background/long-term-leverage"
       ]
+    },
+    {
+      "group": "Protocol Overview",
+      "pages": [
+        "protocol-overview/hyUSD-&-xSOL",
+        "protocol-overview/strategic-advantage",
+        "protocol-overview/earning-yield-with-hyUSD",
+        "protocol-overview/collateral-pool-a-basket-of-LST",
+        "protocol-overview/risk-management",
+        "protocol-overview/protocol-revenue"
+      ]
+    },
+    {
+      "group": "Technical Addendum",
+      "pages": [
+        "technical-addendum/hylo-equations",
+        "technical-addendum/value-at-risk-analysis", 
+        "technical-addendum/additional-risk-management"
+      ]
     }
   ],
   "footerSocials": {
